@@ -1,0 +1,22 @@
+C:/Users/dragr/Desktop/VHDL/Prev5_Barragan_Verdejo_Alberto_maquina.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/dragr/Desktop/VHDL/Prev5_Barragan_Verdejo_Alberto_maquina.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity and2
+-- Compiling architecture logica_retard of and2
+-- Compiling entity xor2
+-- Compiling architecture logica_retard of xor2
+-- Compiling entity inv
+-- Compiling architecture logica_retard of inv
+-- Compiling entity FF_JK
+-- Compiling architecture ifthen of FF_JK
+-- Compiling entity circuit
+-- Compiling architecture structural of circuit
+-- Loading entity FF_JK
+-- Loading entity and2
+-- Loading entity inv
+-- Loading entity xor2
+-- Compiling entity banco_pruebas
+-- Compiling architecture test of banco_pruebas
+-- Loading entity circuit
+
+} {} {}}
